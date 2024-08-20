@@ -25,8 +25,18 @@
       <br>Javascript
     </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>Java
+    </td>
+     <td align="center" width="96">
+         <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=spring" />
+        </a>
+       <br>Spring
     </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
@@ -71,7 +81,7 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
       <br>Tailwind
     </td>
         <td align="center" width="96">
@@ -92,11 +102,7 @@
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-            <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
@@ -109,8 +115,8 @@
       <br>RabbitMQ
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-      <br>sentry
+        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="dart" />
+      <br>ubuntu
     </td>
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
