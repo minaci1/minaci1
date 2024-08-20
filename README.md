@@ -82,7 +82,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
-      <br>Tailwind
+      <br>Postman
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
