@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?
-type=rounded&color=timeGradient&text=Welcome%20to%20minaci's%20GitHub%20👋
-&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+![Header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20minaci's%20GitHub%20%F0%9F%91%8B&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 
 ## Hi there 👋
