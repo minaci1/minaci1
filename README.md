@@ -4,6 +4,8 @@
 
 [![minaci1's GitHub stats](https://github-readme-stats.vercel.app/api?username=minaci1&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/minaci1/github-readme-stats)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=minaci)](https://solved.ac/profile/minaci)
+ 
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
